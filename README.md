@@ -1,5 +1,5 @@
 # qr-volatility-smile-trading
-Volatility Smile Trading in options derivatives refers to a trading strategy or analytical approach that exploits the non-uniform distribution of implied volatility (IV) across different strike prices of options with the same expiration date. This is an example framework of how it can be developed. Further enhancements and strategies will be included.
+Volatility Smile Trading in options derivatives refers to a trading strategy or analytical approach that exploits the non-uniform distribution of implied volatility (IV) across different strike prices of options with the same expiration date. This is an example framework of how it can be developed. Further enhancements will be included in the future.
 
 #### project structure 
 qr-volatility-smile-trading\
