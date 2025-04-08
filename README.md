@@ -2,7 +2,7 @@
 
 
 #### project structure 
-qr-volatility-smile-trading/\
+qr-volatility-smile-trading/
 ├── CMakeLists.txt                    # CMake build configuration file\        
 ├── README.md                         # Project description and instructions\
 ├── data/                             # Directory to store input data files\
