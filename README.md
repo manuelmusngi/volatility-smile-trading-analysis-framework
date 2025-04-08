@@ -3,7 +3,8 @@ Volatility Smile Trading in options derivatives refers to a trading strategy or 
 
 #### project structure 
 qr-volatility-smile-trading/
-├── include/\
+\
+├── include/
 │   ├── BlackScholes.hpp\
 │   ├── VolatilitySmile.hpp\
 │   ├── OptionPricing.hpp\
