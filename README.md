@@ -1,28 +1,16 @@
 # qr-volatility-smile-trading
-
+Volatility Smile Trading in options derivatives refers to a trading strategy or analytical approach that exploits the non-uniform distribution of implied volatility (IV) across different strike prices of options with the same expiration date.
 
 #### project structure 
 qr-volatility-smile-trading/
-\
-├── CMakeLists.txt                                 
-├── README.md                  
-├── data/                             
-├── docs/                             
-│   └── design.md                      
-├── include/                           
-│   ├── data_fetcher.h                
-│   ├── trading_strategy.h            
-│   ├── volatility_smile.h             
-│   └── utils.h                        
-├── src/                               
-│   ├── data_fetcher.cpp               
-│   ├── main.cpp                       
-│   ├── trading_strategy.cpp         
-│   ├── volatility_smile.cpp           
-│   └── utils.cpp                      
-└── tests/                             
-    ├── CMakeLists.txt                 
-    ├── test_data_fetcher.cpp         
-    ├── test_trading_strategy.cpp      
-    ├── test_volatility_smile.cpp      
-    └── test_utils.cpp                 
+├── include/
+│   ├── BlackScholes.hpp
+│   ├── VolatilitySmile.hpp
+│   ├── OptionPricing.hpp
+├── src/
+│   ├── BlackScholes.cpp
+│   ├── VolatilitySmile.cpp
+│   ├── OptionPricing.cpp
+│   ├── main.cpp
+├── CMakeLists.txt
+├── README.md
