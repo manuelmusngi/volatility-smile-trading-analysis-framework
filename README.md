@@ -3,12 +3,12 @@
 
 #### project structure 
 qr-volatility-smile-trading/\
-├── CMakeLists.txt\                    # CMake build configuration file
-├── README.md\                         # Project description and instructions
-├── data/\                             # Directory to store input data files
-├── docs/\                             # Directory for documentation
-│   └── design.md\                     # Design document
-├── include/                          # Header files
+├── CMakeLists.txt                    # CMake build configuration file\        
+├── README.md                         # Project description and instructions\
+├── data/                             # Directory to store input data files\
+├── docs/                             # Directory for documentation\
+│   └── design.md                     # Design document\
+├── include/                          # Header files\
 │   ├── data_fetcher.h                # Header for data fetching
 │   ├── trading_strategy.h            # Header for trading strategy
 │   ├── volatility_smile.h            # Header for volatility smile calculation
