@@ -3,14 +3,14 @@ Volatility Smile Trading in options derivatives refers to a trading strategy or 
 
 #### project structure 
 qr-volatility-smile-trading/
-├── include/
-│   ├── BlackScholes.hpp
-│   ├── VolatilitySmile.hpp
-│   ├── OptionPricing.hpp
-├── src/
-│   ├── BlackScholes.cpp
-│   ├── VolatilitySmile.cpp
-│   ├── OptionPricing.cpp
-│   ├── main.cpp
-├── CMakeLists.txt
+├── include/\
+│   ├── BlackScholes.hpp\
+│   ├── VolatilitySmile.hpp\
+│   ├── OptionPricing.hpp\
+├── src/\
+│   ├── BlackScholes.cpp\
+│   ├── VolatilitySmile.cpp\
+│   ├── OptionPricing.cpp\
+│   ├── main.cpp\
+├── CMakeLists.txt\
 ├── README.md
