@@ -3,7 +3,7 @@ Volatility Smile Trading in options derivatives refers to a trading strategy or 
 
 #### Instructions
 - Clone the repository:\
-  git clone [https://github.com/manuelmusngi/volatility-smile-trading](https://github.com/manuelmusngi/volatility-smile-trading-analysis-framework) \
+  git clone https://github.com/manuelmusngi/volatility-smile-trading-analysis-framework \
   cd volatility-smile-trading
   
 - Build the project:\
