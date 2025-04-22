@@ -8,9 +8,9 @@ volatility-smile-trading-analysis\
 │   ├── [VolatilitySmile.hpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/include/VolatilitySmile.hpp)\
 │   ├── [OptionPricing.hpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/include/OptionPricing.hpp)\
 ├── src/\
-│   ├── BlackScholes.cpp\
-│   ├── VolatilitySmile.cpp\
-│   ├── OptionPricing.cpp\
+│   ├── [BlackScholes.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/BlackScholes.cpp)\
+│   ├── [VolatilitySmile.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/VolatilitySmile.cpp)\
+│   ├── [OptionPricing.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/OptionPricing.cpp)\
 │   ├── main.cpp\
 ├── CMakeLists.txt\
 ├── README.md
