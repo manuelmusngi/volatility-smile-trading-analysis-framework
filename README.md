@@ -16,5 +16,7 @@ volatility-smile-trading-analysis\
 ├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)\
 ├── README.md
 
+#### References
+
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
