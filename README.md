@@ -17,9 +17,9 @@ volatility-smile-trading-analysis\
 ├── README.md
 
 #### References
--[On volatility smile and an investment strategy with out-of-the-money calls](https://arxiv.org/abs/1410.1426)
--[Option Smile Volatility and Implied Probabilities: Implications of Concavity in IV Curves](https://arxiv.org/abs/1410.1426)
--[Arbitrage-Free Prediction of the Implied Volatility Smile](Arbitrage-Free Prediction of the Implied Volatility Smile)
+- [On volatility smile and an investment strategy with out-of-the-money calls](https://arxiv.org/abs/1410.1426)
+- [Option Smile Volatility and Implied Probabilities: Implications of Concavity in IV Curves](https://arxiv.org/abs/1410.1426)
+- [Arbitrage-Free Prediction of the Implied Volatility Smile](Arbitrage-Free Prediction of the Implied Volatility Smile)
 
 #### License
 This project is licensed under the [MIT License](https://github.com/manuelmusngi/regime_switching_models/edit/main/LICENSE).
