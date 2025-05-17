@@ -14,7 +14,7 @@ volatility-smile-trading-analysis\
 │   ├── [OptionPricing.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/OptionPricing.cpp)\
 │   ├── [main.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/main.cpp)\
 ├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)\
-├── README.md
+
 
 #### References
 - [On volatility smile and an investment strategy with out-of-the-money calls](https://arxiv.org/abs/1410.1426)
