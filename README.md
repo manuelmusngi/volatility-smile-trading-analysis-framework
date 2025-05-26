@@ -13,7 +13,7 @@ volatility-smile-trading-analysis\
 │   ├── [VolatilitySmile.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/VolatilitySmile.cpp)\
 │   ├── [OptionPricing.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/OptionPricing.cpp)\
 │   ├── [main.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/main.cpp)\
-├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)\
+├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)
 
 
 #### References
