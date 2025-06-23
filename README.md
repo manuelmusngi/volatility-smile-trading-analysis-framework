@@ -4,7 +4,7 @@ Volatility Smile Trading in options derivatives refers to a trading strategy or 
 
 #### Project architecture 
 volatility-smile-trading-analysis\
-├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)
+├── [CMakeLists.txt](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/CMakeLists.txt)\
 ├── include/\
 │   ├── [BlackScholes.hpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/include/BlackScholes.hpp)\
 │   ├── [VolatilitySmile.hpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/include/VolatilitySmile.hpp)\
