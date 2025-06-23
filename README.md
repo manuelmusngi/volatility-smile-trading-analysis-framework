@@ -13,7 +13,7 @@ volatility-smile-trading-analysis\
 │   ├── [BlackScholes.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/BlackScholes.cpp)\
 │   ├── [VolatilitySmile.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/VolatilitySmile.cpp)\
 │   ├── [OptionPricing.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/OptionPricing.cpp)\
-│   ├── [main.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/main.cpp)\
+│   ├── [main.cpp](https://github.com/manuelmusngi/volatility-smile-trading-analysis/blob/main/src/main.cpp)
 
 
 
